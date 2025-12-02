@@ -1,0 +1,12 @@
+# Compilados Java
+*.class
+
+# Pastas de IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+bin/
+out/
+build/
+.DS_Store
